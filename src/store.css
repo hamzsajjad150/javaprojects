@@ -1,0 +1,58 @@
+#label{
+    -fx-font-weight: bold;
+    -fx-text-fill: blue;
+    -fx-font-size: 24px;
+}
+
+.label{
+    -fx-text-fill: blue;
+}
+
+#lblPrice{
+    -fx-font-weight:bold;
+    -fx-font-size:14pt;
+    -fx-text-fill: blue;
+}
+
+#lblQuant{
+    -fx-font-weight:bold;
+    -fx-font-size:14pt;
+    -fx-text-fill: blue;
+}
+
+#slectionArea{
+    -fx-background-color: #e42fb5;
+}
+
+#txtOput{
+    -fx-font-size:14pt;
+    -fx-font:14px monospace;
+}
+
+#btnSelection{
+    -fx-background-color: #825d3b;
+}
+
+#error{
+    -fx-font-weight:bold;
+    -fx-font-size:14pt;
+    -fx-text-fill:red;
+}
+
+#errors{
+    -fx-font-weight:bold;
+    -fx-font-size:14pt;
+    -fx-text-fill:red;
+}
+
+#good{
+    -fx-font-weight:bold;
+    -fx-font-size:14pt;
+    -fx-text-fill: blue;
+}
+
+#good2{
+    -fx-font-weight:bold;
+    -fx-font-size:14pt;
+    -fx-text-fill: blue;
+}
